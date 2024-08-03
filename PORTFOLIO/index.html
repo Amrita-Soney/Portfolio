@@ -3,38 +3,122 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Portfolio</title>
+    <title>Amrita Soney - Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
-        <nav>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
+        <div class="container">
+            <h1>Amrita Soney</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#education">Education</a></li>
+                    <li><a href="#experience">Work Experience</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
     <section id="about">
-        <h2>About Me</h2>
-        <p>Write a brief introduction about yourself here.</p>
+        <div class="container">
+            <h2>About Me</h2>
+            <p>• Programming languages: C++, C, Python, Basics of Machine Learning
+                • Course Work: OS, DBMS, DSA, Introduction to Artificial Intelligence, HTML, CSS, JavaScript
+                • Technologies: PowerBi, DevOps, Git, Ubuntu, WSL, Kusto Query Language, Geneva
+                • Soft Skills: Teamwork, Time Management, Leadership, Creativity, Artistic, Problem-Solving
+            </p>
+        </div>
     </section>
     <section id="projects">
-        <h2>Projects</h2>
-        <div class="project">
-            <h3>Project Title</h3>
-            <p>Brief description of the project.</p>
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Handwritten Text to Braille Assistance for the Visually Impaired using OCR</h3>
+                <p>• Combines an ESP8266 microcontroller, OV7670 camera module, and OCR software for text capture and understanding.
+                    • Analyzes recognized text for keywords triggering servo motor movements.
+                    • Servo motor movements represent Braille characters, allowing users to "feel" the converted text.
+                </p>
+            </div>
+            <div class="project">
+                <h3>Furniture Recommender System Integrating Deep Learning</h3>
+                <p>• Implemented object detection (MobileNet), furniture style classification (Faiss), and recommendation (VGGNet transfer
+                    learning, CNN).
+                    • Authored a research paper detailing the approach.
+                </p>
+            </div>
+            <div class="project">
+                <h3>E-Commerce Sales Analysis Dashboard using Power BI</h3>
+                <p>• Analyzes sales performance across categories, regions, product sub-categories, and payment methods.
+                    • Provides insights to help businesses optimize sales strategies.
+                </p>
+            </div>
+            <div class="project">
+                <h3>Weather Forecast Website</h3>
+                <p>• Integrated an API to fetch real-time weather data.
+                    • Provides users with current weather conditions and forecasts.
+                </p>
+            </div>
         </div>
-        <!-- Add more projects here -->
+    </section>
+    <section id="education">
+        <div class="container">
+            <h2>Education</h2>
+            <div class="education-item">
+                <h3>Netaji Subhas University of Technology, Dwarka, Delhi</h3>
+                <p>B.Tech. in Computer Science with Artificial Intelligence (CGPA- 8.44)<br>
+                May 2021 - May 2025<br>
+                New Delhi, India</p>
+            </div>
+            <div class="education-item">
+                <h3>Abhinav Public School, Pitampura, Delhi</h3>
+                <p>Class XII CBSE (Percentage- 91.2)<br>
+                May 2019 - May 2020<br>
+                New Delhi, India</p>
+            </div>
+            <div class="education-item">
+                <h3>Gurusharan Convent, Paschim Vihar, Delhi</h3>
+                <p>Class X CBSE (Percentage- 95)<br>
+                May 2017 - May 2018<br>
+                New Delhi, India</p>
+            </div>
+        </div>
+    </section>
+    <section id="experience">
+        <div class="container">
+            <h2>Work Experience</h2>
+            <div class="experience-item">
+                <h3>Microsoft India Pvt. Ltd., Hyderabad, Telangana, India</h3>
+                <p><strong>Azure Core Compute Software Developer Intern</strong><br>
+                27-05-2024 to 21-07-2024</p>
+                <ul>
+                    <li>Analyzed networking and live migration data of VMs on VFP; proposed thresholds for drop metrics.</li>
+                    <li>Developed new logic for servicing notifications used in FPGA, GFT, NDPA, Backplane, and Overlake.</li>
+                </ul>
+            </div>
+            <div class="experience-item">
+                <h3>Netaji Subhas University Of Technology, New Delhi</h3>
+                <p><strong>Internship in Artificial Intelligence and Machine Learning</strong><br>
+                01-06-2023 to 31-07-2023</p>
+                <ul>
+                    <li>Assisted in the research work and implementation of CNN, RNN, YOLO techniques.</li>
+                    <li>Annotated CT scans of adenocarcinoma using OpenCV.</li>
+                </ul>
+            </div>
+        </div>
     </section>
     <section id="contact">
-        <h2>Contact</h2>
-        <p>Email: your.email@example.com</p>
+        <div class="container">
+            <h2>Contact</h2>
+            <p>Email: amritasoney@yahoo.in</p>
+            <p>Contact: 8851788553</p>
+        </div>
     </section>
     <footer>
-        <p>&copy; 2024 Your Name. All rights reserved.</p>
+        <div class="container">
+            <p>&copy; 2024 Amrita Soney. All rights reserved.</p>
+        </div>
     </footer>
 </body>
 </html>
