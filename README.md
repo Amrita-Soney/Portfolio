@@ -1,6 +1,7 @@
 # Portfolio
 
 **Welcome to My Portfolio!🥳**
+
 I am Amrita Soney, a passionate Front End Developer with a strong foundation in software engineering. My journey in the tech world is fueled by a love for creativity and problem-solving, which I bring to every project I work on.
 
 **😊About Me:**  
