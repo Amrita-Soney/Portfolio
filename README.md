@@ -18,6 +18,7 @@ My expertise lies in building intuitive, responsive, and visually appealing web 
 - **Handwritten Text to Braille Assistance:** A prototype designed to convert handwritten text into Braille, aiding visually impaired individuals.
 - **Furniture Recommender System:** An intelligent system that suggests furniture based on user preferences and room dimensions.
 - **Weather Forecast Website:** A responsive web application that provides real-time weather updates using API integrations.
+  
 ![Screenshot 2024-08-18 175859](https://github.com/user-attachments/assets/fa249c30-4069-4068-87b0-f11c59c60f7b)
 
 **✌️Why Work with Me:**  
@@ -25,4 +26,5 @@ I am dedicated to crafting high-quality digital experiences that align with user
 
 **📲🤳Let’s Connect:**  
 I’m always eager to take on new challenges and collaborate with like-minded professionals. Feel free to explore my projects, and don’t hesitate to reach out if you’re interested in working together.
+
 ![Screenshot 2024-08-18 175812](https://github.com/user-attachments/assets/42f58b66-c681-4bd2-ba9d-78baeaa693ec)
