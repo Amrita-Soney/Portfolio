@@ -4,6 +4,9 @@
 
 I am Amrita Soney, a passionate Front End Developer with a strong foundation in software engineering. My journey in the tech world is fueled by a love for creativity and problem-solving, which I bring to every project I work on.
 
+![Screenshot 2024-08-18 175725](https://github.com/user-attachments/assets/b8382647-7517-4ac9-ac45-081574f222b6)
+
+
 **😊About Me:**  
 I recently completed an internship at Microsoft as an Azure Core Compute Software Developer, where I worked with cutting-edge technologies in networking and live migration data. My academic background in Computer Science with Artificial Intelligence has equipped me with a deep understanding of both software development and machine learning.
 
